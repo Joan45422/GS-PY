@@ -93,12 +93,12 @@ O código inclui uma validação para execução direta utilizando:
 
 if _name_ == "_main_":
     rodar_menu()
-# =================================================================================
+
 # FUTURE AT WORK – ASSISTENTE DE REQUALIFICAÇÃO
 #
 # Joan Ferreira - RM: 562913
 # Gabriel Salles - RM: 563584
-# =================================================================================
+
 
 # VARIÁVEIS GLOBAIS
 OCUPACOES_DATA = [
